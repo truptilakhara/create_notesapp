@@ -108,5 +108,6 @@ button h6 {
     width: 250px;
     min-height: 120px;
     background-color: white;
+    cursor:auto;
   }
 }
